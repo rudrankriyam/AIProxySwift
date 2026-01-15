@@ -1,5 +1,4 @@
 # About
-[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/AIProxySwift&type=Date)](https://star-history.com/#rudrankriyam/AIProxySwift&Date)
 
 
 Use this library to adopt AI APIs in your app. Swift clients for the following providers are
@@ -7003,3 +7002,5 @@ configuration'. Set both 'Web Server' and 'Secure Web Server' to `http://localho
 If all is set up correctly, you will see requests and responses flow through mitmproxy in plain
 text. You can use those bodies to build your swift structs, implementing an encodable
 representation for the request body and decodable representation for response body.
+
+[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/AIProxySwift&type=Date)](https://star-history.com/#rudrankriyam/AIProxySwift&Date)
