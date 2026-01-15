@@ -1,4 +1,6 @@
 # About
+[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/AIProxySwift&type=Date)](https://star-history.com/#rudrankriyam/AIProxySwift&Date)
+
 
 Use this library to adopt AI APIs in your app. Swift clients for the following providers are
 included:
